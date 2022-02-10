@@ -19,7 +19,7 @@
         "d3-delaunay": "^5.3.0",
         "geometric": "1",
         "moment": "^2.27.0",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "normalize.css": "^8.0.1",
         "polished": "^3.6.5",
         "react": "^16.13.1",
